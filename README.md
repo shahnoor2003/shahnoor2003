@@ -19,6 +19,7 @@
 <a href="https://www.facebook.com/people/Shahnoor-Mughal/pfbid02k4VTD4C8f6wDm6UxfM97RoQ4EeCoxJE4se5Q5sDBTF1z9hq44TH4YHRkACpJnzRvl/?mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahnoor mughal" height="30" width="40" /></a>
 <a href="https://instagram.com/x_shahnoor_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x_shahnoor_x" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Frontend_Tactics/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="frontend_tactics" height="30" width="40" /></a>
+  <a href="https://github.com/shahnoor2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="frontend_tactics" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
